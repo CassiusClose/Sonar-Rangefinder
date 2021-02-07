@@ -74,7 +74,7 @@ the amplifier, which connected to the speaker driver.
 To use them, put the microphone and speaker right next to each other and point
 them at a large object (like the wall)
 
-![Transmitter Receiver](../examples/transmitter_receiver.png)
+![Transmitter Receiver](../examples/transmitter_receiver.jpg)
 
 <h2>Signal Processing</h2>
 <h3>Output Signal</h3>
