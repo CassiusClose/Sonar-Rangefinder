@@ -30,7 +30,7 @@ the rangefinding device.
 By default, rangefinder.m will save recorded audio in `bg.wav` and
 `input.wav`. Sample data files are included in the `SampleDatasets/` folder.
 To see the results of anaylzing different input files, scroll down to the
-**Signal Processing** section of `rangefinder.m`. There, you will be
+`Signal Processing` section of `rangefinder.m`. There, you will be
 able to change the value of the `input` variable to whatever file you want
 to analyze.
 
