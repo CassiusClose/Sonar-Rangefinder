@@ -3,7 +3,7 @@
 This is the MATLAB code that powers a sonar rangefinding device. This
 was a project for AME292: Acoustics Portfolio at University of Rochester.
 
-For a more in-depth description of how this works, see `EXPLANATION.md`.
+For a more in-depth description of how this works, see (EXPLANATION.md)
 
 <h2> Usage </h2>
 
