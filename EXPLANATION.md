@@ -55,16 +55,16 @@ frequencies and hardware that I already had.
 
 <h2>The Hardware</h2>
 
-![Speaker Driver](../examples/transmitter.png)
+![Speaker Driver](../examples/transmitter.jpg)
 The transmitter/speaker: A little BillionSound speaker driver
 
-![Audio Amplifier](../examples/amp.png)
+![Audio Amplifier](../examples/amp.jpg)
 The amplifier: A Sure Electronics amplifier board
 
-![Microphone](../examples/receiver.png)
+![Microphone](../examples/receiver.jpg)
 The receiver/microphone: An SM57
 
-![Audio Interface](../examples/interface.png)
+![Audio Interface](../examples/interface.jpg)
 The interface: An M-Audio M-Track
 
 The microphone connected to my computer through the interface. The interface’s
